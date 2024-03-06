@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently learning the React javascript Library and Django.<br>💻 I'm working on several personal projects most notably a restaurant site.<br>♟️ Fun fact: I am pretty mid at chess; I also play a couple of brass instruments
+📚 I'm currently learning the React javascript Library and Django.<br>💻 I'm working on several personal projects.<br>♟️ Fun fact: I am pretty mid at chess; I also play a couple of brass instruments
 
 
 ## 🌐 Socials:
