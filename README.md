@@ -1,5 +1,11 @@
 # 💫 About Me:
-📚 I'm currently learning the React javascript Library and Django.<br>💻 I'm working on several personal projects.<br>♟️ Fun fact: I am pretty mid at chess; I also play a couple of brass instruments
+Hey there! 🌟 I'm Mutegi Mutugi, a spirited undergraduate delving deep into the thrilling realm of Computer Science, driven by an insatiable passion for Web 3.0! 💻 Whether it's crafting sleek Python scripts or conjuring captivating JavaScript web apps, I'm always buzzing with excitement to embark on a new coding adventure! 🚀 Challenges? They're my playground, and I thrive on pushing boundaries and exploring the cutting-edge! But hey, I'm not on this journey solo—let's team up, brainstorm ideas, and conjure some coding magic together! 💫 I'm open to collaborations, recommendations, and even the occasional impromptu dance break—let's turn GitHub into the ultimate coding party! 🎈💃🎉
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
